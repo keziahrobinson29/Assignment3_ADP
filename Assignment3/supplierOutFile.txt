@@ -1,0 +1,12 @@
+================================SUPPLIER======================================
+ID         Name                 Prod Type            Description          
+==============================================================================
+Auto Delight S350                 Auto Delight         BMW                   
+
+Grand Theft Auto S270                 Grand Theft Auto     Toyota                
+
+MotorMania S290                 MotorMania           Hyundai               
+
+Prime Motors S400                 Prime Motors         Lexus                 
+
+We got Cars S300                 We got Cars          Toyota                
